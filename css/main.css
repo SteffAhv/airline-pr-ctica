@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.first-class {
+  background-color: rgb(65, 222, 137);
+  color: white;
+}
+
+.economic-class {
+  background-color: rgb(72, 114, 152);
+  color: white;
+}
+
+.seats {
+  display: inline-block;
+  margin:50px;
+  width: 120px;
+  height: 120px;
+  border: 1px solid black;
+}
